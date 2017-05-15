@@ -18,3 +18,4 @@ while( ($record = mysqli_fetch_assoc($result)) )
 
 <?php echo $post;#ded?>
 <p>	ff</p>
+<p>ff</p>
